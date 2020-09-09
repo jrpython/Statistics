@@ -1,7 +1,9 @@
 # Statistics
-Python utilities for Statistics
+This page will help you to understand below statistics concepts and their implementation in Python
+1. Decriptive Statistics
+2. Confidence Interval
 
-## <ins>Decriptive Statistics</ins> (DescriptiveStatistics.ipynb)
+## 1. <ins>Decriptive Statistics</ins> (DescriptiveStatistics.ipynb)
 
 <b> So what is descriptive statistics?</b><br>
 Descriptive statistics is used to describe or summarize data in a ways that it is meaningful and useful. Descriptive statistics is at the heart of all quantitative analysis.
@@ -27,7 +29,7 @@ _Step 5_ provides count plot for categorical variables<br>
 _Step 6_ provides count plot for binary variables<br>
 _Step 5_ provides boxplot for numerical variables
 
-## <ins>Confidence Interval</ins> (ConfidenceInterval.ipynb)
+## 2. <ins>Confidence Interval</ins> (ConfidenceInterval.ipynb)
 This code will help to understand the concept of Confidence Interval.<br>
 
 <b>So what is Confidence Interval?</b><br>
